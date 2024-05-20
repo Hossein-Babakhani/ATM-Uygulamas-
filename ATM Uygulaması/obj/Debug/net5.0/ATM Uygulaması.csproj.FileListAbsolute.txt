@@ -1,0 +1,16 @@
+C:\Users\Hossein\source\repos\امتحانات شرکت\سخت\02-ATM Uygulaması\ATM Uygulaması\bin\Debug\net5.0\ATM Uygulaması.exe
+C:\Users\Hossein\source\repos\امتحانات شرکت\سخت\02-ATM Uygulaması\ATM Uygulaması\bin\Debug\net5.0\ATM Uygulaması.deps.json
+C:\Users\Hossein\source\repos\امتحانات شرکت\سخت\02-ATM Uygulaması\ATM Uygulaması\bin\Debug\net5.0\ATM Uygulaması.runtimeconfig.json
+C:\Users\Hossein\source\repos\امتحانات شرکت\سخت\02-ATM Uygulaması\ATM Uygulaması\bin\Debug\net5.0\ATM Uygulaması.runtimeconfig.dev.json
+C:\Users\Hossein\source\repos\امتحانات شرکت\سخت\02-ATM Uygulaması\ATM Uygulaması\bin\Debug\net5.0\ATM Uygulaması.dll
+C:\Users\Hossein\source\repos\امتحانات شرکت\سخت\02-ATM Uygulaması\ATM Uygulaması\bin\Debug\net5.0\ref\ATM Uygulaması.dll
+C:\Users\Hossein\source\repos\امتحانات شرکت\سخت\02-ATM Uygulaması\ATM Uygulaması\bin\Debug\net5.0\ATM Uygulaması.pdb
+C:\Users\Hossein\source\repos\امتحانات شرکت\سخت\02-ATM Uygulaması\ATM Uygulaması\obj\Debug\net5.0\ATM Uygulaması.csproj.AssemblyReference.cache
+C:\Users\Hossein\source\repos\امتحانات شرکت\سخت\02-ATM Uygulaması\ATM Uygulaması\obj\Debug\net5.0\ATM Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hossein\source\repos\امتحانات شرکت\سخت\02-ATM Uygulaması\ATM Uygulaması\obj\Debug\net5.0\ATM Uygulaması.AssemblyInfoInputs.cache
+C:\Users\Hossein\source\repos\امتحانات شرکت\سخت\02-ATM Uygulaması\ATM Uygulaması\obj\Debug\net5.0\ATM Uygulaması.AssemblyInfo.cs
+C:\Users\Hossein\source\repos\امتحانات شرکت\سخت\02-ATM Uygulaması\ATM Uygulaması\obj\Debug\net5.0\ATM Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Hossein\source\repos\امتحانات شرکت\سخت\02-ATM Uygulaması\ATM Uygulaması\obj\Debug\net5.0\ATM Uygulaması.dll
+C:\Users\Hossein\source\repos\امتحانات شرکت\سخت\02-ATM Uygulaması\ATM Uygulaması\obj\Debug\net5.0\ref\ATM Uygulaması.dll
+C:\Users\Hossein\source\repos\امتحانات شرکت\سخت\02-ATM Uygulaması\ATM Uygulaması\obj\Debug\net5.0\ATM Uygulaması.pdb
+C:\Users\Hossein\source\repos\امتحانات شرکت\سخت\02-ATM Uygulaması\ATM Uygulaması\obj\Debug\net5.0\ATM Uygulaması.genruntimeconfig.cache
