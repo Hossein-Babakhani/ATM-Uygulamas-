@@ -1,3 +1,3 @@
 # ATM-Uygulamas-
 Uygulama ilk çalıştığında kullanıcıdan yamak istediği işlemi öğrenmelidir. Bunlar ATM üzerinden yapılabilecek temem işlemledir. Para çekme, para yatırma, ödeme yapma vs.. İsteğe bağlı olarak genişletilebilir. Öncelikle ATM ye giriş yapan kullanıcın sistemde kayıtlı bir kullanıcı olduğundan emin olunmalıdır....
-![Uploading ezgif-3-702b3d51c9.gif…]()
+![ezgif-3-702b3d51c9](https://github.com/Hossein-Babakhani/ATM-Uygulamas-/assets/169270653/144b8739-57f6-4e1c-8d18-4a5b576465d3)
